@@ -1,0 +1,11 @@
+[package]
+name = "plato-math"
+version = "0.1.0"
+edition = "2021"
+description = "Shared vector math primitives for the PLATO ecosystem — distance functions, vector ops, statistics, mono operations"
+license = "MIT"
+repository = "https://github.com/SuperInstance/plato-math"
+keywords = ["vector", "math", "distance", "cosine", "embedding"]
+categories = ["mathematics", "science"]
+
+[dependencies]
